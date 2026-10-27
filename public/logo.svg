@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <!-- Placeholder logo - Replace with actual JL monogram -->
+  <ellipse cx="40" cy="40" rx="38" ry="38" fill="none" stroke="#2a9bbf" stroke-width="3"/>
+  <text x="20" y="52" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#2a9bbf">J</text>
+  <text x="40" y="52" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#e11d2e">L</text>
+</svg>
